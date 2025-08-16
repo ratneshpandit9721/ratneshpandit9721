@@ -44,12 +44,12 @@
 ### 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit-23-hub&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-23-hub&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ratneshpandit9721&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratneshpandit9721&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-23-hub&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratneshpandit9721&theme=tokyonight" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ### 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-23-hub&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ratneshpandit9721&theme=tokyo-night" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amit-23-hub&theme=dracula&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ratneshpandit9721&theme=dracula&row=2&column=4" />
 </p>
 
 ---
