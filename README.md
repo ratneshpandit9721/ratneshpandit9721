@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ratnesh Pandey</h1>
-<h3 align="center">💻 A Passionate Android and Agentic AI Developer from Gorakhpur, India 🇮🇳</h3>
+<h3 align="center">💻 A Passionate Android and Generative AI Developer from Gorakhpur, India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
@@ -24,7 +24,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working as  **Android and Agentic AI Developer**
+- 🔭 I’m currently working as  **Android and Generative AI Developer**
 - 🌱 Currently learning **Data Structures & Algorithms (DSA)**
 - 🧠 Ask me about ** Android Development, system Design, Kotlin, Node.js, MySql, Firebase, Python, AWS, Flask & more**
 - 📫 How to reach me: **ratneshpandey972138@gmail.com**
@@ -75,5 +75,5 @@
 > – Alan Kay
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+and+Agentic+AI+Developer;Problem+Solver;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Android+and+Generative+AI+Developer;Problem+Solver;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=45">
 </p>
