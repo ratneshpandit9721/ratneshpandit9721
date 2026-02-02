@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ratnesh Pandey</h1>
-<h3 align="center">💻 A Passionate Android and Generative AI Developer from Gorakhpur, India 🇮🇳</h3>
+<h3 align="center">💻 A Passionate Android and Backend Developer from Gorakhpur, India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
@@ -24,9 +24,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working as  **Android and Generative AI Developer**
+- 🔭 I’m currently working as  **Android and Backend Developer**
 - 🌱 Currently learning **Data Structures & Algorithms (DSA)**
-- 🧠 Ask me about ** Android Development, system Design, Kotlin, Node.js, MySql, Firebase, Python, AWS, Flask & more**
+- 🧠 Ask me about ** Android Development, system Design, Kotlin, Node.js, MySql, MongoDB, Firebase, Python, AWS, Flask & more**
 - 📫 How to reach me: **ratneshpandey972138@gmail.com**
 - ⚡ Fun Fact: *I love clean code... and bad jokes!*
 
